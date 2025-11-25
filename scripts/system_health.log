@@ -1,0 +1,13 @@
+=== System Health Check - Tue Nov 25 18:04:51 IST 2025 ===
+CPU Usage: 10%
+Memory Usage: 68%
+Disk Usage (/): 26%
+
+Top 5 CPU-consuming processes:
+ps - 500%
+/usr/lib/chromium/chromium - 3.8%
+kube-apiserver - 3.2%
+/usr/lib/chromium/chromium - 3.0%
+/KubeArmor/kubearmor-relay-server - 2.5%
+
+---

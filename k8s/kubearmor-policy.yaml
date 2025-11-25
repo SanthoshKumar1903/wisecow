@@ -1,0 +1,36 @@
+apiVersion: security.kubearmor.com/v1
+kind: KubeArmorPolicy
+metadata:
+  name: wisecowkubectl create secret tls wisecow-tls --cert=tls.crt --key=tls.key-policy
+  namespace: default
+spec:
+  severity: 5
+  selector:
+    matchLabels:
+      app: wisecow
+  
+  # Block sensitive file access
+  file:
+    matchPaths:
+    - path: /etc/passwd
+      action: Block
+    - path: /etc/shadow
+      action: Block
+    
+    # Block root directory access
+    matchDirectories:
+    - dir: /root/
+      recursive: true
+      action: Block
+  
+  # Block package managers and download tools
+  process:
+    matchPaths:
+    - path: /usr/bin/apt
+      action: Block
+    - path: /usr/bin/apt-get
+      action: Block
+    - path: /usr/bin/wget
+      action: Block
+    - path: /usr/bin/curl
+      action: Block

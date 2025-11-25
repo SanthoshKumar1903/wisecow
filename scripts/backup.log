@@ -1,0 +1,148 @@
+=== Backup Started - Tue Nov 25 20:05:19 IST 2025 ===
+ERROR: Source directory does not exist: /home/santhoshkumar/wisecow
+=== Backup Started - Tue Nov 25 20:07:36 IST 2025 ===
+Backing up /home/santhoshkumar/documents to /home/santhoshkumar/backups/wisecow-backup-20251125-200736...
+sending incremental file list
+created directory /home/santhoshkumar/backups/wisecow-backup-20251125-200736
+documents/
+documents/DemoCICD/
+documents/DemoCICD/README.md
+
+          6,124 100%    0.00kB/s    0:00:00  
+          6,124 100%    0.00kB/s    0:00:00 (xfr#1, to-chk=45/48)
+documents/DemoCICD/.git/
+documents/DemoCICD/.git/HEAD
+
+             21 100%   20.51kB/s    0:00:00  
+             21 100%   20.51kB/s    0:00:00 (xfr#2, to-chk=43/48)
+documents/DemoCICD/.git/config
+
+            260 100%  253.91kB/s    0:00:00  
+            260 100%  253.91kB/s    0:00:00 (xfr#3, to-chk=42/48)
+documents/DemoCICD/.git/description
+
+             73 100%   71.29kB/s    0:00:00  
+             73 100%   71.29kB/s    0:00:00 (xfr#4, to-chk=41/48)
+documents/DemoCICD/.git/index
+
+            137 100%  133.79kB/s    0:00:00  
+            137 100%  133.79kB/s    0:00:00 (xfr#5, to-chk=40/48)
+documents/DemoCICD/.git/packed-refs
+
+            112 100%  109.38kB/s    0:00:00  
+            112 100%  109.38kB/s    0:00:00 (xfr#6, to-chk=39/48)
+documents/DemoCICD/.git/branches/
+documents/DemoCICD/.git/hooks/
+documents/DemoCICD/.git/hooks/applypatch-msg.sample
+
+            478 100%  466.80kB/s    0:00:00  
+            478 100%  466.80kB/s    0:00:00 (xfr#7, to-chk=32/48)
+documents/DemoCICD/.git/hooks/commit-msg.sample
+
+            896 100%  875.00kB/s    0:00:00  
+            896 100%  875.00kB/s    0:00:00 (xfr#8, to-chk=31/48)
+documents/DemoCICD/.git/hooks/fsmonitor-watchman.sample
+
+          4,726 100%    2.25MB/s    0:00:00  
+          4,726 100%    2.25MB/s    0:00:00 (xfr#9, to-chk=30/48)
+documents/DemoCICD/.git/hooks/post-update.sample
+
+            189 100%   92.29kB/s    0:00:00  
+            189 100%   92.29kB/s    0:00:00 (xfr#10, to-chk=29/48)
+documents/DemoCICD/.git/hooks/pre-applypatch.sample
+
+            424 100%  207.03kB/s    0:00:00  
+            424 100%  207.03kB/s    0:00:00 (xfr#11, to-chk=28/48)
+documents/DemoCICD/.git/hooks/pre-commit.sample
+
+          1,649 100%  805.18kB/s    0:00:00  
+          1,649 100%  805.18kB/s    0:00:00 (xfr#12, to-chk=27/48)
+documents/DemoCICD/.git/hooks/pre-merge-commit.sample
+
+            416 100%  135.42kB/s    0:00:00  
+            416 100%  135.42kB/s    0:00:00 (xfr#13, to-chk=26/48)
+documents/DemoCICD/.git/hooks/pre-push.sample
+
+          1,374 100%  447.27kB/s    0:00:00  
+          1,374 100%  447.27kB/s    0:00:00 (xfr#14, to-chk=25/48)
+documents/DemoCICD/.git/hooks/pre-rebase.sample
+
+          4,898 100%    1.56MB/s    0:00:00  
+          4,898 100%    1.56MB/s    0:00:00 (xfr#15, to-chk=24/48)
+documents/DemoCICD/.git/hooks/pre-receive.sample
+
+            544 100%  177.08kB/s    0:00:00  
+            544 100%  177.08kB/s    0:00:00 (xfr#16, to-chk=23/48)
+documents/DemoCICD/.git/hooks/prepare-commit-msg.sample
+
+          1,492 100%  364.26kB/s    0:00:00  
+          1,492 100%  364.26kB/s    0:00:00 (xfr#17, to-chk=22/48)
+documents/DemoCICD/.git/hooks/push-to-checkout.sample
+
+          2,783 100%  679.44kB/s    0:00:00  
+          2,783 100%  679.44kB/s    0:00:00 (xfr#18, to-chk=21/48)
+documents/DemoCICD/.git/hooks/sendemail-validate.sample
+
+          2,308 100%  563.48kB/s    0:00:00  
+          2,308 100%  563.48kB/s    0:00:00 (xfr#19, to-chk=20/48)
+documents/DemoCICD/.git/hooks/update.sample
+
+          3,650 100%  891.11kB/s    0:00:00  
+          3,650 100%  891.11kB/s    0:00:00 (xfr#20, to-chk=19/48)
+documents/DemoCICD/.git/info/
+documents/DemoCICD/.git/info/exclude
+
+            240 100%   46.88kB/s    0:00:00  
+            240 100%   46.88kB/s    0:00:00 (xfr#21, to-chk=18/48)
+documents/DemoCICD/.git/logs/
+documents/DemoCICD/.git/logs/HEAD
+
+            191 100%   37.30kB/s    0:00:00  
+            191 100%   37.30kB/s    0:00:00 (xfr#22, to-chk=17/48)
+documents/DemoCICD/.git/logs/refs/
+documents/DemoCICD/.git/logs/refs/heads/
+documents/DemoCICD/.git/logs/refs/heads/main
+
+            191 100%   37.30kB/s    0:00:00  
+            191 100%   37.30kB/s    0:00:00 (xfr#23, to-chk=13/48)
+documents/DemoCICD/.git/logs/refs/remotes/
+documents/DemoCICD/.git/logs/refs/remotes/origin/
+documents/DemoCICD/.git/logs/refs/remotes/origin/HEAD
+
+            191 100%   37.30kB/s    0:00:00  
+            191 100%   37.30kB/s    0:00:00 (xfr#24, to-chk=11/48)
+documents/DemoCICD/.git/objects/
+documents/DemoCICD/.git/objects/info/
+documents/DemoCICD/.git/objects/pack/
+documents/DemoCICD/.git/objects/pack/pack-66ecc2e0d53f9fd64bc2c2d91cf6276c3d59b43a.idx
+
+          1,156 100%  188.15kB/s    0:00:00  
+          1,156 100%  188.15kB/s    0:00:00 (xfr#25, to-chk=8/48)
+documents/DemoCICD/.git/objects/pack/pack-66ecc2e0d53f9fd64bc2c2d91cf6276c3d59b43a.pack
+
+          2,828 100%  460.29kB/s    0:00:00  
+          2,828 100%  460.29kB/s    0:00:00 (xfr#26, to-chk=7/48)
+documents/DemoCICD/.git/objects/pack/pack-66ecc2e0d53f9fd64bc2c2d91cf6276c3d59b43a.rev
+
+             64 100%   10.42kB/s    0:00:00  
+             64 100%   10.42kB/s    0:00:00 (xfr#27, to-chk=6/48)
+documents/DemoCICD/.git/refs/
+documents/DemoCICD/.git/refs/heads/
+documents/DemoCICD/.git/refs/heads/main
+
+             41 100%    6.67kB/s    0:00:00  
+             41 100%    6.67kB/s    0:00:00 (xfr#28, to-chk=2/48)
+documents/DemoCICD/.git/refs/remotes/
+documents/DemoCICD/.git/refs/remotes/origin/
+documents/DemoCICD/.git/refs/remotes/origin/HEAD
+
+             30 100%    4.19kB/s    0:00:00  
+             30 100%    4.19kB/s    0:00:00 (xfr#29, to-chk=0/48)
+documents/DemoCICD/.git/refs/tags/
+
+sent 40,257 bytes  received 732 bytes  81,978.00 bytes/sec
+total size is 37,486  speedup is 0.91
+Backup completed successfully!
+Backup size: 208K
+=== Backup Finished - Tue Nov 25 20:07:37 IST 2025 ===
+
